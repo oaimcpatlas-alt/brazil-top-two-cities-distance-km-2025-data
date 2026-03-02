@@ -1,0 +1,16 @@
+{
+  "year": 2025,
+  "brazil": {
+    "top_two_cities": ["São Paulo", "Rio de Janeiro"],
+    "distance_km": 435,
+    "route_type": "driving"
+  },
+  "usa": {
+    "top_two_cities": ["New York City", "Los Angeles"],
+    "distance_km": 4489,
+    "route_type": "driving"
+  },
+  "comparison": {
+    "usa_distance_higher": true
+  }
+}
